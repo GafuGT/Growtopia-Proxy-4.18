@@ -23,8 +23,8 @@ Make sure you're already in Growtopia
 
 Enjoy Exploiting
 
-ShowCase & How to use video
+# ShowCase & How to use video
 https://www.youtube.com/watch?v=w0snYbHIW7k
 
-Support
+# Support
 https://discord.gg/cb4W62Hm
