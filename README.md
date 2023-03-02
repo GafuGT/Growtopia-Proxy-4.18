@@ -3,7 +3,7 @@ Growtopia Silvestras Proxy 4.18
 
 
 # Usage
-Go to Releases tab / 
+Go to Releases tab / https://github.com/GafuGT/Growtopia-Proxy-4.18/releases/tag/Growtopia-Proxy
 
 Download the .rar file to your device
 
