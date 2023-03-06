@@ -23,7 +23,7 @@ Make sure you're already in Growtopia
 
 Enjoy Hosting/Exploiting
 
-# ShowCase & How to use video
+# ShowCase & How to use video.
 https://www.youtube.com/watch?v=w0snYbHIW7k
 
 # Support
